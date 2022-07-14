@@ -1,9 +1,6 @@
-#include<stdio.h>
-void sub(int a,int b){
-    printf("%d",a-b);
-    // return(a-b);
-}
+#include<bits/stdc++.h>
+using namespace std;
 
 int main(){
-    sub(8,2);
+    cout<<"hello world";
 }
