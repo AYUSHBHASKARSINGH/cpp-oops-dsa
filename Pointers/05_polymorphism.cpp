@@ -1,0 +1,15 @@
+// POLYMORPHISM
+// One name multiple forms
+// example function overloading
+
+#include<iostream>
+using namespace std;
+
+
+
+
+int main(){
+
+ 
+    return 0;
+}
